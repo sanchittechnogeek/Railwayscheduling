@@ -1,2 +1,2 @@
 # railwayscheduling
-Railway Scheduling Program for Beginners in C++
+Railway Scheduling Program using OOP in C++
